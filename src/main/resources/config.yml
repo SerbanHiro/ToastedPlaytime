@@ -1,0 +1,6 @@
+# Database
+databaseHost: localhost
+databasePort: 3306
+databaseName: toasted
+databaseUsername: root
+databasePassword: password

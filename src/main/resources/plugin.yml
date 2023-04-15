@@ -1,0 +1,11 @@
+name: ToastedPlaytime
+version: '${project.version}'
+main: me.serbob.toastedplaytime.ToastedPlaytime
+api-version: 1.19
+description: A simple plugin to keep track of playtime + playtime points.
+commands:
+  toastedpt:
+    description: test
+    aliases:
+      - playtime
+      - pt
